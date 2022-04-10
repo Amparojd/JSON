@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <Supermercado>
+         <Super>Carrefour</Super>
+         <Dirección>Plaza Tirso de Molina, Madrid</Dirección>
+         <localizacion GPS>40.41285501236938, -3.7049551198813013</localizacion GPS>
+         <horario>L a D, 24h</horario>
+         <Productos>
+             <Producto>leche Desnatada</Producto>
+             <Procedencia>Asturias</Procedencia>
+             <Caducidad>27/05/2022</Caducidad>
+             <Medida>l</Medida>
+             <Precio>0.67</Precio>
+             <Unidades>12</Unidades>
+             <Oferta>false</Oferta>
+             <Comprado>true</Comprado>
+         </Productos>
+         <Productos>
+             <Producto>Merluza</Producto>
+             <Procedencia>Lugo</Procedencia>
+             <Caducidad>20/05/2022</Caducidad>
+             <Medida>kg</Medida>
+             <Precio>24</Precio>
+             <Unidades>6</Unidades>
+             <Oferta>true</Oferta>
+             <Comprado>true</Comprado>
+         </Productos>
+         <Productos>
+             <Producto>Kaki</Producto>
+             <Procedencia>Valencia</Procedencia>
+             <Caducidad>20/06/2022</Caducidad>
+             <Medida>kg</Medida>
+             <Precio>1.45</Precio>
+             <Unidades>2kg</Unidades>
+             <Oferta>false</Oferta>
+             <Comprado>true</Comprado>
+         </Productos>
+     </Supermercado>
+     <Supermercado>
+         <Super>Lidl</Super>
+         <Dirección>Plaza Tirso de Molina, Madrid</Dirección>
+         <Localización GPS>40.412786825805384, -3.7045176315277106</Localización GPS>
+         <Horario>L a D, de 10:00 a 23:00</Horario>
+         <Productos>
+             <Producto>yogur</Producto>
+             <Procedencia>Galicia</Procedencia>
+             <Caducidad>04/06/2022</Caducidad>
+             <Medida>gr</Medida>
+             <Precio>0.95</Precio>
+             <Unidades>12</Unidades>
+             <Oferta>true</Oferta>
+             <Comprado>true</Comprado>
+         </Productos>
+         <Productos>
+             <Producto>Hamburguesa Buey</Producto>
+             <Procedencia>Ávila</Procedencia>
+             <Caducidad>23/04/2022</Caducidad>
+             <Medida>kg</Medida>
+             <Precio>6.15</Precio>
+             <Unidades>4kg</Unidades>
+             <Oferta>true</Oferta>
+             <Comprado>true</Comprado>
+         </Productos>
+         <Productos>
+             <Producto>Fresón de Palos</Producto>
+             <Procedencia>Andalucía</Procedencia>
+             <Caducidad>20/05/2022</Caducidad>
+             <Medida>kg</Medida>
+             <Precio>2.5</Precio>
+             <Unidades>3kg</Unidades>
+             <Oferta>false</Oferta>
+             <Comprado>false</Comprado>
+         </Productos>
+     </Supermercado>
+ </root>

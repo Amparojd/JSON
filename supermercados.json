@@ -1,0 +1,80 @@
+{
+    "Supermercado": [
+        {
+            "Super":"Carrefour",
+            "Dirección":"Plaza Tirso de Molina, Madrid",
+            "localizacion GPS":"40.41285501236938, -3.7049551198813013",
+             "horario":"L a D, 24h",
+             "Productos":[{
+                    "Producto":"leche Desnatada",
+                    "Procedencia":"Asturias",
+                    "Caducidad":"27/05/2022",
+                    "Medida":"l",
+                    "Precio":0.67,
+                    "Unidades":12,
+                    "Oferta":false,
+                    "Comprado":true
+                },
+                {
+                    "Producto":"Merluza",
+                    "Procedencia":"Lugo",
+                    "Caducidad":"20/05/2022",
+                    "Medida":"kg",
+                    "Precio":24,
+                    "Unidades":6,
+                    "Oferta":true,
+                    "Comprado":true
+                    
+                },
+                {
+                    "Producto":"Kaki",
+                    "Procedencia":"Valencia",
+                    "Caducidad":"20/06/2022",
+                    "Medida":"kg",
+                    "Precio":1.45,
+                    "Unidades":"2kg",
+                    "Oferta":false,
+                    "Comprado":true
+                }
+            ]
+    },
+            { 
+                "Super":"Lidl",
+                "Dirección":"Plaza Tirso de Molina, Madrid",
+                "Localización GPS":"40.412786825805384, -3.7045176315277106",
+                "Horario":"L a D, de 10:00 a 23:00",
+                "Productos":[
+                    {
+                        "Producto":"yogur",
+                        "Procedencia":"Galicia",
+                        "Caducidad":"04/06/2022",
+                        "Medida":"gr",
+                        "Precio":0.95,
+                        "Unidades":"12",
+                        "Oferta":true,
+                        "Comprado":true
+                    },
+                    {
+                        "Producto":"Hamburguesa Buey",
+                        "Procedencia":"Ávila",
+                        "Caducidad":"23/04/2022",
+                        "Medida":"kg",
+                        "Precio":6.15,
+                        "Unidades":"4kg",
+                        "Oferta":true,
+                        "Comprado":true
+                    },
+                    {
+                        "Producto":"Fresón de Palos",
+                        "Procedencia":"Andalucía",
+                        "Caducidad":"20/05/2022",
+                        "Medida":"kg",
+                        "Precio":2.50,
+                        "Unidades":"3kg",
+                        "Oferta":false,
+                        "Comprado":false
+                    }
+                ]
+            }
+        ]
+    }
